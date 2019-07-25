@@ -7,9 +7,9 @@ body {
 }
 
 .jumbotron {
-	background: none;
 	text-align: left;
 	color: black;
+	opacity: 0.5;
 }
 
 
